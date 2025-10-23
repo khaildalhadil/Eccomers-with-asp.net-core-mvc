@@ -1,0 +1,17 @@
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\bin\Debug\net8.0\BulkeyDataAccess.deps.json
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\bin\Debug\net8.0\BulkeyDataAccess.runtimeconfig.json
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\bin\Debug\net8.0\BulkeyDataAccess.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\bin\Debug\net8.0\BulkeyDataAccess.pdb
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\bin\Debug\net8.0\Bulkey.Model.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\bin\Debug\net8.0\Bulkey.Model.pdb
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyDataAccess.csproj.AssemblyReference.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyDataAccess.AssemblyInfoInputs.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyDataAccess.AssemblyInfo.cs
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyDa.7CB0D807.Up2Date
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyDataAccess.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\refint\BulkeyDataAccess.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyDataAccess.pdb
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyDataAccess.genruntimeconfig.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\ref\BulkeyDataAccess.dll

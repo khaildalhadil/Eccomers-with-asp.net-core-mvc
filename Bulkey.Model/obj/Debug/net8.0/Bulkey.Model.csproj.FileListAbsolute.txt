@@ -1,0 +1,14 @@
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\bin\Debug\net8.0\Bulkey.Model.deps.json
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\bin\Debug\net8.0\Bulkey.Model.runtimeconfig.json
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\bin\Debug\net8.0\Bulkey.Model.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\bin\Debug\net8.0\Bulkey.Model.pdb
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\Bulkey.Model.csproj.AssemblyReference.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\Bulkey.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\Bulkey.Model.AssemblyInfoInputs.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\Bulkey.Model.AssemblyInfo.cs
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\Bulkey.Model.csproj.CoreCompileInputs.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\Bulkey.Model.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\refint\Bulkey.Model.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\Bulkey.Model.pdb
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\Bulkey.Model.genruntimeconfig.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\ref\Bulkey.Model.dll

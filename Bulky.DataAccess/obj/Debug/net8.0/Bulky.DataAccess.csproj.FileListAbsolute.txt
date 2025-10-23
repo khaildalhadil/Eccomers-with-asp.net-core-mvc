@@ -1,0 +1,17 @@
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll

@@ -1,0 +1,63 @@
+﻿@using BulkeyBook.Model
+@model List<Product>
+
+<div class="container my-5 box-shadow pb-5 rounded">
+    <div class="card-header bg-secondary bg-gradient m-lg-0 py-3 rounded-top">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">All Product</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-6 text-end my-3 w-100 ml-5">
+        <a asp-controller="Product" asp-action="Create" class="btn btn-outline-secondary"><i class="bi bi-plus-lg"></i>Create New Product </a>
+    </div>
+
+
+    <table class="table table-bordered">
+
+        <thead>
+            <tr>
+                <th scope="col">Title</th>
+                <th scope="col">Author</th>
+                <th scope="col">ISBN</th>
+                <th scope="col">Price</th>
+                <th scope="col">Category ID</th>
+                <th scope="col"></th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@c.Title</td>
+                    <td>@c.Author</td>
+
+                    <td>@c.ISBN</td>
+                    <td>@c.Price Rial OM</td>
+                    <td>@c.CategoryId</td>
+
+                    <td>
+                        <a asp-controller="Product" asp-action="Edit" asp-route-id="@c.Id" class="btn py-2 bg-primary px-3 w-100 text-white">
+                            <i class="bi bi-pencil"></i>
+                            EDIT
+                        </a>
+                    </td>
+
+                    <td>
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@c.Id" class="btn py-2 bg-danger px-3 w-100 text-white">
+                            <i class="bi bi-trash"> </i>
+                            DELETE
+                        </a>
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
