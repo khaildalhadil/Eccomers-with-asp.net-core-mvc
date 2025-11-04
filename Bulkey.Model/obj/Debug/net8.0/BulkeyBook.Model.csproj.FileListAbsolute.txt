@@ -12,3 +12,4 @@ C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\refi
 C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\BulkeyBook.Model.pdb
 C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\BulkeyBook.Model.genruntimeconfig.cache
 C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\ref\BulkeyBook.Model.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulkey.Model\obj\Debug\net8.0\BulkeyBook.Model.sourcelink.json

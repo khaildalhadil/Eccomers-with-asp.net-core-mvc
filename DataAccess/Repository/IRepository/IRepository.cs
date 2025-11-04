@@ -11,10 +11,10 @@ namespace BulkeyBook.DataAccess.Repository.IRepository
     public interface IRepository<T> where T : class
     {
         // T- Category
-        IEnumerable<T> GetAll();
+        IEnumerable<T> GetAll(string? includeProperties);
         //calling a method is a type of expression
         // Func represent methods that return a value
-        T Get(int id);
+        T Get(int id, string? includeProperties);
         // I can do like this => I GetById(int id)
         void Add(T entity);
         void Delete(T entity);

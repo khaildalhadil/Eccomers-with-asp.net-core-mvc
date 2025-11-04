@@ -13,16 +13,16 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
         private const string TEMP_DELETE = "delete";
         private const string TEMP_UPDATE = "update";
 
-        private readonly ICategoryRepository _categoryRepo;
+        private readonly IUnitOfWork unitOfWord;
 
-        public CategoryController(ICategoryRepository db)
+        public CategoryController(IUnitOfWork db)
         {
-            _categoryRepo = db;
+            unitOfWord = db;
         }
 
         public IActionResult Index()
         {
-            List<Category> Categorys = _categoryRepo.GetAll().ToList();
+            List<Category> Categorys = unitOfWord.category.GetAll(null).ToList();
             return View(Categorys);
         }
 
@@ -36,8 +36,9 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
 
             if(ModelState.IsValid)
             {
-                _categoryRepo.Add(category);
-                _categoryRepo.Save();
+                unitOfWord.category.Add(category);
+                unitOfWord.Save();
+                TempData["success"] = "The Category Added Successfuly";
             }
 
             return RedirectPermanent("/Category");
@@ -45,7 +46,7 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
 
         public ActionResult Edit(int id)
         {
-            Category category = _categoryRepo.Get(id);
+            Category category = unitOfWord.category.Get(id);
             return View(category);
         }
 
@@ -59,10 +60,10 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
 
         public ActionResult Delete(int id)
         {
-            //Category category = _categoryRepo.Get(c => c.Id == id);
-            Category category = _categoryRepo.Get(id);
-            _categoryRepo.Delete(category);
-            _categoryRepo.Save();
+            //Category category = unitOfWord.Get(c => c.Id == id);
+            Category category = unitOfWord.category.Get(id);
+            unitOfWord.category.Delete(category);
+            unitOfWord.Save();
             return Redirect("/Category");
         }
 

@@ -9,3 +9,4 @@ C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.Utility\obj\Debug\net8.0\Bul
 C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.Utility\obj\Debug\net8.0\refint\BulkeyBook.Utility.dll
 C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.Utility\obj\Debug\net8.0\BulkeyBook.Utility.pdb
 C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.Utility\obj\Debug\net8.0\ref\BulkeyBook.Utility.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\Bulky.Utility\obj\Debug\net8.0\BulkeyBook.Utility.sourcelink.json

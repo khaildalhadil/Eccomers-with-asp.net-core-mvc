@@ -25,6 +25,8 @@ namespace BulkeyBook.DataAccess.Repository
             this.dbSet = _db.Set<T>();
             // _db.Categories == dbSet
             // I Can Do Now dbSet.Add(category)
+            //dbSet.Include(u=> u.)
+            _db.Products.Include(u => u.Category);
         }
 
         //public T Get(Expression<Func<T, bool>> filter)
@@ -45,13 +47,22 @@ namespace BulkeyBook.DataAccess.Repository
 
         }
 
-        public IEnumerable<T> GetAll()
+        public IEnumerable<T> GetAll(string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
+            if (!string.IsNullOrEmpty(includeProperties)) { 
+                foreach( var includeProp in includeProperties
+                    .Split(new char[] { ','}, 
+                    StringSplitOptions.RemoveEmptyEntries)
+                    )
+                {
+                    query = query.Include(includeProp);
+                }
+            }
             return query.ToList();
         }
 
-        public void Add(T entity)
+        public void Add(T entity, string? includeProperties= null)
         {
             dbSet.Add(entity);
         }

@@ -15,3 +15,4 @@ C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\refint
 C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyBook.DataAccess.pdb
 C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyBook.DataAccess.genruntimeconfig.cache
 C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\ref\BulkeyBook.DataAccess.dll
+C:\Users\khail\Desktop\EntityFrameWork\Bulkey\DataAccess\obj\Debug\net8.0\BulkeyBook.DataAccess.sourcelink.json

@@ -1,8 +1,22 @@
-﻿@{
-    ViewData["Title"] = "Hello Wolrd";
-}
+﻿@model List<Product>;
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="row col-12 gap-3 m-auto mt-5 mb-5 text-center">
+
+	@foreach (var product in Model)
+	{
+		<div class="card p-2 border-0 border-top border-5 rounded shadow card_product" style="width: 18rem">
+			<img class="card-img-top rounded" src="@product.ImageUrl" alt="Card image cap">
+			<div class="card-body">
+				<h4 class="card-title mb-1">@product.Title</h4>
+				<p class=" mb-1">by <span class="fw-bold text-secondary"> @product.Author</span></p>
+				<p class="mb-0">List Price: <del>@product.ListPrice Rial OM</del></p>
+				<p>Now Price: <span class="fw-bold text-secondary">@product.Price Rial OM</span> </p>
+				@* @Regex.Match(product.Description, @"<p>(.*?)</p>").Groups[1].Value; *@
+
+				<a asp-controller="Home" asp-action="Details" asp-route-id="@product.Id" class="btn btn-primary mb-0 w-100">Details</a>
+			</div>
+		</div>
+	}
+
 </div>
+
