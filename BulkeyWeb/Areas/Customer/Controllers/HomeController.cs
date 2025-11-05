@@ -23,7 +23,7 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
         public IActionResult Details(int id)
         {
-            Product product = _untiOfWord.product.Get(id, includeProperties: "Category");
+            Product product = _untiOfWord.product.GetAll(includeProperties: "Category").ToList().Find(prodcut => prodcut.Id == id);
             return View(product);
         }
 

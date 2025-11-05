@@ -62,7 +62,7 @@ namespace BulkeyBook.DataAccess.Repository
             return query.ToList();
         }
 
-        public void Add(T entity, string? includeProperties= null)
+        public void Add(T entity)
         {
             dbSet.Add(entity);
         }

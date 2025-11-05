@@ -14,7 +14,7 @@ namespace BulkeyBook.DataAccess.Repository.IRepository
         IEnumerable<T> GetAll(string? includeProperties);
         //calling a method is a type of expression
         // Func represent methods that return a value
-        T Get(int id, string? includeProperties);
+        T Get(int id);
         // I can do like this => I GetById(int id)
         void Add(T entity);
         void Delete(T entity);
