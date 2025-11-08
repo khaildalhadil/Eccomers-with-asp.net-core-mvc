@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkeyBookWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00eb0a8c3219a27597bf19072097936332af87ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94a8b1fc075df766e4a6feb0c83500aa03f58a5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkeyBookWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkeyBookWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

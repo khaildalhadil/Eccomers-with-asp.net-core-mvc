@@ -1454,7 +1454,8 @@
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.3.0",
           "Microsoft.EntityFrameworkCore": "8.0.20",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.20"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.20",
+          "Microsoft.Extensions.Identity.Stores": "8.0.20"
         },
         "runtime": {
           "BulkeyBook.Model.dll": {
