@@ -1,12 +1,15 @@
 ﻿using BulkeyBook.DataAccess;
 using BulkeyBook.DataAccess.Repository.IRepository;
 using BulkeyBook.Model;
+using Bulky.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Category = BulkeyBook.Model.Category;
 
 namespace BulkeyBookWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private const string TEMP_SUCCESS = "success";
@@ -44,7 +47,7 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
             return RedirectPermanent("/Category");
         }
 
-        public ActionResult Edit(int id)
+        public ActionResult Edit(string id)
         {
             Category category = unitOfWord.category.Get(id);
             return View(category);
@@ -58,7 +61,7 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
             return Redirect("/Category");
         }
 
-        public ActionResult Delete(int id)
+        public ActionResult Delete(string id)
         {
             //Category category = unitOfWord.Get(c => c.Id == id);
             Category category = unitOfWord.category.Get(id);

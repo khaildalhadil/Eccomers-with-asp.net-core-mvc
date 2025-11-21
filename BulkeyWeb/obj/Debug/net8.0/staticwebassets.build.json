@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qbs4kKE+cFoeHxf8cSWKN3mtxIQmEFSPzDlmkKtEEE4=",
+  "Hash": "rqDZnYyvP8DSDe3aKxz64CsNirMUn1bvdqyAE7hBGjo=",
   "Source": "BulkeyBookWeb",
   "BasePath": "_content/BulkeyBookWeb",
   "Mode": "Default",
@@ -1380,6 +1380,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "SourceId": "BulkeyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkeyBookWeb",
+      "RelativePath": "images/lawn_leaf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r1girycgsq",
+      "Integrity": "v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
       "Identity": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\0c356259-ad52-429d-a48c-4494da3f4327.jpg",
@@ -3149,7 +3170,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 06:39:45 GMT"
+          "Value": "Tue, 18 Nov 2025 07:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3194,7 +3215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 06:39:45 GMT"
+          "Value": "Tue, 18 Nov 2025 07:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3239,7 +3260,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 06:39:45 GMT"
+          "Value": "Tue, 18 Nov 2025 07:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3276,7 +3297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 06:39:45 GMT"
+          "Value": "Tue, 18 Nov 2025 07:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5753,6 +5774,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/lawn_leaf.jpg",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Apr 2023 06:29:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg="
+        }
+      ]
+    },
+    {
+      "Route": "images/lawn_leaf.r1girycgsq.jpg",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Apr 2023 06:29:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r1girycgsq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lawn_leaf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg="
         }
       ]
     },

@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\0c356259-ad52-429d-a48c-4494da3f4327.jpg",
       "PackagePath": "staticwebassets\\images\\product\\0c356259-ad52-429d-a48c-4494da3f4327.jpg"
     },

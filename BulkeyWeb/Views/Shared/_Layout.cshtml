@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
@@ -12,7 +13,7 @@
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
 	<link href="~/css/style.css" rel="stylesheet" />
 </head>
-<body>
+<body data-bs-theme="light">
 
 	<header>
 		<nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
@@ -29,21 +30,33 @@
 							<a class="nav-link text-white-50" asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a>
 						</li>
 
+						@if(User.IsInRole(SD.Role_Admin))
+						{
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+									Content managment
+								</a>
 
-						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-								Content managment
+								<ul class="dropdown-menu bg-white box-shadow ">
+									<li class="nav-item">
+										<a class="nav-link text-dark  dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link text-dark   dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Product</a>
+									</li>
+									<li><hr class="dropdown-divider bg-black bg-opacity-50"></li>
+									<li class="nav-item">
+										<a class="nav-link text-dark   dropdown-item" asp-area="Admin" asp-controller="Company" asp-action="Index">Company</a>
+									</li>
+								</ul>
+							</li>
+						}
+
+
+						<li class="nav-item">
+							<a class="nav-link text-white-50" asp-area="Customer" asp-controller="Home" asp-action="Cart" asp-action="Index">
+								<i class="bi bi-cart"></i> &nbsp; (0)
 							</a>
-
-							<ul class="dropdown-menu bg-white box-shadow ">
-								<li class="nav-item">
-									<a class="nav-link text-dark  dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
-								</li>
-								<li class="nav-item">
-									<a class="nav-link text-dark   dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Product</a>
-								</li>
-								<li><hr class="dropdown-divider bg-black bg-opacity-50"></li>
-							</ul>
 						</li>
 					</ul>
 					<partial name="_LoginPartial" />

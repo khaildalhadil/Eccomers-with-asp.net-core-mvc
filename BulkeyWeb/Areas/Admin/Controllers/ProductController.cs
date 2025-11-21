@@ -1,12 +1,15 @@
 ﻿using BulkeyBook.DataAccess.Repository.IRepository;
 using BulkeyBook.Model;
 using BulkeyBook.Model.ViewModel;
+using Bulky.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BulkeyBookWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         //private readonly IProductRepository _context;
@@ -50,7 +53,7 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
                 return View(ProductVM);
             }
             else {
-                ProductVM.Product = unitOfWork.product.Get(id);
+                ProductVM.Product = unitOfWork.product.Get(id.ToString());
                 return View(ProductVM);
             }
          
@@ -138,7 +141,7 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
 
         public IActionResult Delete(int id)
         {
-            Product product = unitOfWork.product.Get(id);
+            Product product = unitOfWork.product.Get(id.ToString());
             return View(product);
         }
 

@@ -22,4 +22,4 @@ namespace BulkeyBook.DataAccess.Repository
             _db.Update(obj);
         }
     }
-}
+}   

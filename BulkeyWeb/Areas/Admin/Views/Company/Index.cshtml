@@ -1,0 +1,61 @@
+﻿@model List<Company>
+
+<div class="container my-5 box-shadow pb-5 rounded">
+    <div class="card-header bg-secondary bg-gradient m-lg-0 py-3 rounded-top">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">All Category</h2>
+            </div>
+        </div>
+    </div>
+
+     <div class="col-6 text-end my-3 w-100 ml-5">
+        <a asp-controller="Company" asp-action="Create" class="btn btn-outline-secondary"><i class="bi bi-plus-lg"></i>Create New Company</a>
+    </div> 
+
+
+    <table class="table table-bordered">
+        
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">StreetAddress</th>
+                <th scope="col">City</th>
+                <th scope="col">State</th>
+                <th scope="col">PostalCode</th>
+                <th scope="col">PhoneNumber</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@c.Name</td>
+                    <td>@c.StreetAddress</td>
+                    <td>@c.City</td>
+                    <td>@c.State</td>
+                    <td>@c.PostalCode</td>
+                    <td>@c.PhoneNumber</td>
+                
+                    <td>
+                        <a asp-controller="Company" asp-action="Edit" asp-route-id="@c.Id" class="btn py-2 bg-primary px-3 w-100 text-white">
+                            <i class="bi bi-pencil"></i>
+                            EDIT
+                        </a>
+                    </td>
+
+                    <td>
+                        <a asp-controller="Company" asp-action="Delete" asp-route-id="@c.Id" class="btn py-2 bg-danger px-3 w-100 text-white">
+                            <i class="bi bi-trash"> </i>
+                            DELETE
+                        </a>
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

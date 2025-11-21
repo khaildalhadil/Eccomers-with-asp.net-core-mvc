@@ -12,7 +12,11 @@ namespace BulkeyBook.DataAccess
 
         public DbSet<Category> Categorys { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Company> Companys { get; set; }
+        public DbSet<ShoppingCart> ShoppingCarts { get; set; }
         public DbSet<ApplicationUser> applicationUsers { get; set; }
+        public DbSet<OrderDetail> OrderDetail { get; set; }
+        public DbSet<OrderHeader> OrderHeader { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -34,20 +34,12 @@ namespace BulkeyBook.DataAccess.Repository
         //    IQueryable<T> query = dbSet;
         //    return query.Where(filter).FirstOrDefault();
         //}
-        public T Get(int id)
+        public T Get(String id)
         {
-            var data = dbSet.Find(id);
-            
-            if(data == null)
-            {
-                return null;
-            }
-
-            return data;
-
+            return dbSet.Find(id);
         }
 
-        public IEnumerable<T> GetAll(string? includeProperties = null)
+        public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter = null, string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
             if (!string.IsNullOrEmpty(includeProperties)) { 
@@ -58,6 +50,10 @@ namespace BulkeyBook.DataAccess.Repository
                 {
                     query = query.Include(includeProp);
                 }
+            }
+            if (filter != null)
+            {
+                query = query.Where(filter);
             }
             return query.ToList();
         }
