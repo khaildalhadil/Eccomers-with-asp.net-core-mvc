@@ -1,0 +1,49 @@
+﻿@model List<OrderHeader>
+
+<div class="container my-5 box-shadow pb-5 rounded">
+    <div class="card-header bg-secondary bg-gradient m-lg-0 py-3 rounded-top">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">All Product</h2>
+            </div>
+        </div>
+    </div>
+
+
+
+    <table id="tblData" class="table table-bordered">
+
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">NAME</th>
+                <th scope="col">Phone Number</th>
+                <th scope="col">Email</th>
+                <th scope="col">Status</th>
+                <th scope="col">Total</th>
+                @* <th scope="col"></th> *@
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var order in Model)
+            {
+                <tr>
+                    <th>@order.Id</th>
+                    <th>@order.ApplicationUser.Name</th>
+                    <th>@order.ApplicationUser.PhoneNumber</th>
+                    <th>@order.ApplicationUser.Email</th>
+                    <th>Pending</th>
+                    <th>@order.OrderTotal Rial</th>
+                    <td>
+                        <a asp-controller="Order" asp-action="Edit" asp-route-id="@order.Id" class="btn py-2 bg-primary px-3 w-100 text-white">
+                            <i class="bi bi-pencil"></i>
+                            EDIT
+                        </a>
+                    </td>
+                </tr>
+                
+            }
+        </tbody>
+
+    </table>
+</div>
