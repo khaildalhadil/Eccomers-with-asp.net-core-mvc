@@ -53,7 +53,7 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
                 return View(ProductVM);
             }
             else {
-                ProductVM.Product = unitOfWork.product.Get(id.ToString());
+                ProductVM.Product = unitOfWork.product.Get(c => c.Id == id);
                 return View(ProductVM);
             }
          
@@ -141,7 +141,7 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
 
         public IActionResult Delete(int id)
         {
-            Product product = unitOfWork.product.Get(id.ToString());
+            Product product = unitOfWork.product.Get(t => t.Id == id);
             return View(product);
         }
 

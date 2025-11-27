@@ -21,16 +21,6 @@
 					<input asp-for="Title" type="text" class="form-control" disabled="true" />
 				</div>
 
-				<div class="mb-3">
-					<label asp-for="Author" class="my-2"></label>
-					<input asp-for="Author" class="form-control" disabled="true" />
-				</div>
-
-				<div class="mb-3">
-					<label asp-for="ISBN" class="my-2"></label>
-					<input asp-for="ISBN" class="form-control  user-select-none" disabled="true" />
-				</div>
-
 				<div class="mb-3 ">
 					<label asp-for="Price" class="my-2"></label>
 					<input asp-for="Price" class="form-control" disabled="true" />
@@ -51,8 +41,3 @@
 	</div>
 </div>
 
-@section Scripts {
-	@{
-		<partial name="_ValidationScriptsPartial" />
-	}
-}

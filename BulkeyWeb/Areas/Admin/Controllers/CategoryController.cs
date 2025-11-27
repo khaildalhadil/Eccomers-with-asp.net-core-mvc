@@ -35,9 +35,10 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public ActionResult Create(Category category) {
+        public ActionResult Create(Category category)
+        {
 
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 unitOfWord.category.Add(category);
                 unitOfWord.Save();
@@ -47,27 +48,35 @@ namespace BulkeyBookWeb.Areas.Admin.Controllers
             return RedirectPermanent("/Category");
         }
 
-        public ActionResult Edit(string id)
+        public ActionResult Edit(int id)
         {
-            Category category = unitOfWord.category.Get(id);
+            Category category = unitOfWord.category.Get(c => c.Id == id);
             return View(category);
         }
 
         [HttpPost]
         public ActionResult Edit(Category category)
         {
-            //_db.Categorys.Update()
+            unitOfWord.category.Update(category);
+            unitOfWord.Save();
 
-            return Redirect("/Category");
+            return RedirectToAction("Index");
         }
 
-        public ActionResult Delete(string id)
+        public IActionResult Delete(int id)
         {
-            //Category category = unitOfWord.Get(c => c.Id == id);
-            Category category = unitOfWord.category.Get(id);
+            Category category = unitOfWord.category.Get(c => c.Id == id);
+            return View(category);
+        }
+
+        [HttpPost]
+        public ActionResult Delete(Category category)
+        {
             unitOfWord.category.Delete(category);
             unitOfWord.Save();
-            return Redirect("/Category");
+            TempData["success"] = "The Category Deleted Successfuly";
+            return RedirectToAction("Index");
+
         }
 
     }

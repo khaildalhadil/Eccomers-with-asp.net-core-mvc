@@ -5623,11 +5623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\Bulkey.Model\\BulkeyBook.Model.csproj",
+      "projectUniqueName": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulkey.Model\\BulkeyBook.Model.csproj",
       "projectName": "BulkeyBook.Model",
-      "projectPath": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\Bulkey.Model\\BulkeyBook.Model.csproj",
+      "projectPath": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulkey.Model\\BulkeyBook.Model.csproj",
       "packagesPath": "C:\\Users\\khail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\Bulkey.Model\\obj\\",
+      "outputPath": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulkey.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

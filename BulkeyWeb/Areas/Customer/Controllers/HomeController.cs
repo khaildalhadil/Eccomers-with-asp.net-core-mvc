@@ -72,8 +72,7 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
             foreach (var cart in shoppingCart.ShoppingCartList)
             {
-                cart.Price = GetPriceBasedOnQuantity(cart);
-                shoppingCart.OrderHeader.OrderTotal += (cart.Price * cart.Count);
+                shoppingCart.OrderHeader.OrderTotal += cart.Product.Price * cart.Count;
                 //shoppingCart.ShoppingCartList = price * cart.Count;
             }
 
@@ -82,7 +81,7 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
         public IActionResult Plus(int cartId)
         {
-            var cartFromDb = _untiOfWord.shoppingCart.Get(cartId.ToString());
+            var cartFromDb = _untiOfWord.shoppingCart.Get(t=> t.Id == cartId);
             cartFromDb.Count += 1;
             _untiOfWord.shoppingCart.Update(cartFromDb);
             _untiOfWord.Save();
@@ -91,7 +90,7 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
         public IActionResult Minus(int cartId)
         {
-            var cartFromDb = _untiOfWord.shoppingCart.Get(cartId.ToString());
+            var cartFromDb = _untiOfWord.shoppingCart.Get(t => t.Id == cartId);
 
             if (cartFromDb.Count == 1)
             {
@@ -108,7 +107,7 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
         }
         public IActionResult Remove(int cartId)
         {
-            var cartFromDb = _untiOfWord.shoppingCart.Get(cartId.ToString());
+            var cartFromDb = _untiOfWord.shoppingCart.Get(t => t.Id == cartId);
             _untiOfWord.shoppingCart.Delete(cartFromDb);
             _untiOfWord.Save();
             return RedirectToAction("Cart");
@@ -128,7 +127,8 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
             };
 
             //ApplicationUser user = _untiOfWord.users.Get(userId);
-            shoppingCart.OrderHeader.ApplicationUser = _untiOfWord.users.Get(userId);
+            shoppingCart.OrderHeader.ApplicationUser = _untiOfWord.users.Get(t => t.Id == userId);
+
             //shoppingCart.OrderHeader.ApplicationUser = shoppingCart.OrderHeader.ApplicationUser.Name;
             shoppingCart.OrderHeader.Name = shoppingCart.OrderHeader.ApplicationUser.Name;
             shoppingCart.OrderHeader.PhoneNumber = shoppingCart.OrderHeader.ApplicationUser.PhoneNumber;
@@ -141,7 +141,6 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
             foreach (var cart in shoppingCart.ShoppingCartList)
             {
-                cart.Price = GetPriceBasedOnQuantity(cart);
                 shoppingCart.OrderHeader.OrderTotal += (cart.Price * cart.Count);
                 //shoppingCart.ShoppingCartList = price * cart.Count;
             }
@@ -161,11 +160,10 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
             shoppingCartVM.OrderHeader.OrderDate = System.DateTime.Now;
             shoppingCartVM.OrderHeader.ApplicationUserId = userId;
-            shoppingCartVM.OrderHeader.ApplicationUser = _untiOfWord.users.Get(userId);
+            shoppingCartVM.OrderHeader.ApplicationUser = _untiOfWord.users.Get(t => t.Id == userId);
 
             foreach (var cart in shoppingCartVM.ShoppingCartList)
             {
-                cart.Price = GetPriceBasedOnQuantity(cart);
                 shoppingCartVM.OrderHeader.OrderTotal += (cart.Price * cart.Count);
                 //shoppingCart.ShoppingCartList = price * cart.Count;
             }
@@ -222,24 +220,6 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
             return View(id);
         }
-
-        private double GetPriceBasedOnQuantity(ShoppingCart shoppingCart)
-        {
-            if (shoppingCart.Count <= 50)
-            {
-                return shoppingCart.Product.Price;
-            }
-            else if (shoppingCart.Count <= 100)
-            {
-                return shoppingCart.Product.Price50;
-            }
-            else
-            {
-                return shoppingCart.Product.Price100;
-            }
-
-        }
-
 
 
         public IActionResult Privacy()

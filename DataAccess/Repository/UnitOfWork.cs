@@ -13,7 +13,6 @@ namespace BulkeyBook.DataAccess.Repository
         private ApplicationDbContext _db;
         public ICategoryRepository category { get;private set; }
         public IProductRepository product { get;private set; }
-        public ICompanyRepository company { get; private set; }
         public IShoppingCartRepository shoppingCart { get; private set; }
         public IApplicationUserRepository users { get; private set; }
 
@@ -26,7 +25,6 @@ namespace BulkeyBook.DataAccess.Repository
             _db = db;
             category = new CategoryRepository(_db);
             product = new ProductRepository(_db);
-            company = new CompanyRepository(_db);
             shoppingCart = new ShoppingCartRepository(_db);
             users = new ApplicationUserRepository(_db);
             orderDetail = new OrderDetailRepository(_db);

@@ -30,9 +30,6 @@ namespace BulkeyBook.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("DisplayOrder")
-                        .HasColumnType("int");
-
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -45,53 +42,18 @@ namespace BulkeyBook.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            DisplayOrder = 10,
-                            Name = "Action"
+                            Name = "Jewelry"
                         },
                         new
                         {
                             Id = 2,
-                            DisplayOrder = 11,
-                            Name = "SciFi"
+                            Name = "Bags"
                         },
                         new
                         {
                             Id = 3,
-                            DisplayOrder = 12,
-                            Name = "History"
+                            Name = "Shoes"
                         });
-                });
-
-            modelBuilder.Entity("BulkeyBook.Model.Company", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("City")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("PhoneNumber")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("PostalCode")
-                        .HasColumnType("int");
-
-                    b.Property<string>("State")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("StreetAddress")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Companys");
                 });
 
             modelBuilder.Entity("BulkeyBook.Model.OrderDetail", b =>
@@ -204,10 +166,6 @@ namespace BulkeyBook.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Author")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<int>("CategoryId")
                         .HasColumnType("int");
 
@@ -215,24 +173,11 @@ namespace BulkeyBook.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ISBN")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("ImageUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<double>("ListPrice")
-                        .HasColumnType("float");
-
                     b.Property<double>("Price")
-                        .HasColumnType("float");
-
-                    b.Property<double>("Price100")
-                        .HasColumnType("float");
-
-                    b.Property<double>("Price50")
                         .HasColumnType("float");
 
                     b.Property<string>("Title")
@@ -249,86 +194,47 @@ namespace BulkeyBook.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            Author = "Billy Spark",
                             CategoryId = 1,
-                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "SWD9999001",
-                            ImageUrl = "",
-                            ListPrice = 99.0,
-                            Price = 90.0,
-                            Price100 = 80.0,
-                            Price50 = 85.0,
-                            Title = "Fortune of Time"
+                            Description = "Premium handcrafted leather wallet with multiple card slots and a slim, elegant design.",
+                            ImageUrl = "https://images-na.ssl-images-amazon.com/images/I/61BygHH-M2L.jpg",
+                            Price = 25.0,
+                            Title = "Leather Wallet"
                         },
                         new
                         {
                             Id = 2,
-                            Author = "Nancy Hoover",
                             CategoryId = 1,
-                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "CAW777777701",
-                            ImageUrl = "",
-                            ListPrice = 40.0,
-                            Price = 30.0,
-                            Price100 = 20.0,
-                            Price50 = 25.0,
-                            Title = "Dark Skies"
+                            Description = "Minimalist stainless-steel wristwatch with waterproof build and adjustable strap.",
+                            ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4mkuWYl3Od8zCp371ZqsWRdMZ_67G5DrXA&s",
+                            Price = 120.0,
+                            Title = "Classic Wristwatch"
                         },
                         new
                         {
                             Id = 3,
-                            Author = "Julian Button",
-                            CategoryId = 3,
-                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "RITO5555501",
-                            ImageUrl = "",
-                            ListPrice = 55.0,
-                            Price = 50.0,
-                            Price100 = 35.0,
-                            Price50 = 40.0,
-                            Title = "Vanish in the Sunset"
+                            CategoryId = 1,
+                            Description = "UV400-protected sunglasses with lightweight frame and modern style.",
+                            ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1uw5ScCjhOOkas_LI2yn2Z6ef-n04Z8V_g&s",
+                            Price = 35.0,
+                            Title = "Sunglasses"
                         },
                         new
                         {
                             Id = 4,
-                            Author = "Abby Muscles",
-                            CategoryId = 2,
-                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "WS3333333301",
-                            ImageUrl = "",
-                            ListPrice = 70.0,
+                            CategoryId = 1,
+                            Description = "Durable water-resistant backpack with 3 compartments and laptop pocket.",
+                            ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRk7MJ8S4wwT_4SYkSt5uNgHWhr_u6wo0dQ&s",
                             Price = 65.0,
-                            Price100 = 55.0,
-                            Price50 = 60.0,
-                            Title = "Cotton Candy"
+                            Title = "Travel Backpack"
                         },
                         new
                         {
                             Id = 5,
-                            Author = "Ron Parker",
-                            CategoryId = 3,
-                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "SOTJ1111111101",
-                            ImageUrl = "",
-                            ListPrice = 30.0,
-                            Price = 27.0,
-                            Price100 = 20.0,
-                            Price50 = 25.0,
-                            Title = "Rock in the Ocean"
-                        },
-                        new
-                        {
-                            Id = 6,
-                            Author = "Laura Phantom",
                             CategoryId = 1,
-                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "FOT000000001",
-                            ImageUrl = "",
-                            ListPrice = 25.0,
-                            Price = 23.0,
-                            Price100 = 20.0,
-                            Price50 = 22.0,
-                            Title = "Leaves and Wonders"
+                            Description = "Noise-isolating Bluetooth earbuds with fast charging and 8-hour battery life.",
+                            ImageUrl = "https://m.media-amazon.com/images/I/51GEDaBzrwL.jpg",
+                            Price = 55.0,
+                            Title = "Wireless Earbuds"
                         });
                 });
 
@@ -573,9 +479,6 @@ namespace BulkeyBook.DataAccess.Migrations
                     b.Property<string>("City")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("CompanyId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -588,8 +491,6 @@ namespace BulkeyBook.DataAccess.Migrations
 
                     b.Property<string>("StreetAddress")
                         .HasColumnType("nvarchar(max)");
-
-                    b.HasIndex("CompanyId");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
@@ -703,15 +604,6 @@ namespace BulkeyBook.DataAccess.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("BulkeyBook.Model.ApplicationUser", b =>
-                {
-                    b.HasOne("BulkeyBook.Model.Company", "Company")
-                        .WithMany()
-                        .HasForeignKey("CompanyId");
-
-                    b.Navigation("Company");
                 });
 #pragma warning restore 612, 618
         }

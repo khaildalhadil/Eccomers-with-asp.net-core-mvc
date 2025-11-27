@@ -1,355 +1,259 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\BulkeyBookWeb.7nddto076j.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
       "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\0c356259-ad52-429d-a48c-4494da3f4327.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\0c356259-ad52-429d-a48c-4494da3f4327.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\128a9e48-4bff-4e5d-8e99-c5aa6a15d438.png",
-      "PackagePath": "staticwebassets\\images\\product\\128a9e48-4bff-4e5d-8e99-c5aa6a15d438.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\15bcd31d-a726-4909-baef-69e42c24146c.png",
-      "PackagePath": "staticwebassets\\images\\product\\15bcd31d-a726-4909-baef-69e42c24146c.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\1e83516d-869a-40da-8509-f0058dd79bd5.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\1e83516d-869a-40da-8509-f0058dd79bd5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\22a49d62-91e7-4e8f-8ddf-b14ce56bc4c6.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\22a49d62-91e7-4e8f-8ddf-b14ce56bc4c6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\379fb589-5ede-4c0d-8c90-17a142f8a10e.png",
-      "PackagePath": "staticwebassets\\images\\product\\379fb589-5ede-4c0d-8c90-17a142f8a10e.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\4d1d885f-d1ac-48e1-9b4f-b3430b783911.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\4d1d885f-d1ac-48e1-9b4f-b3430b783911.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\61c87ffa-8531-446e-b976-7a0f1db76011.png",
-      "PackagePath": "staticwebassets\\images\\product\\61c87ffa-8531-446e-b976-7a0f1db76011.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\64d69d6a-89a8-4746-9bac-03f3d5eec5eb.png",
-      "PackagePath": "staticwebassets\\images\\product\\64d69d6a-89a8-4746-9bac-03f3d5eec5eb.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\6b6901a6-5777-46aa-8828-3659581d6163.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\6b6901a6-5777-46aa-8828-3659581d6163.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\709756dc-7ced-4894-83a2-e7b26748cb76.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\709756dc-7ced-4894-83a2-e7b26748cb76.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\789fcf7e-89f4-4c62-9a40-98e5c058f7d4.png",
-      "PackagePath": "staticwebassets\\images\\product\\789fcf7e-89f4-4c62-9a40-98e5c058f7d4.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\7d984d15-44ce-4e9e-8d4c-d089bafb5042.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\7d984d15-44ce-4e9e-8d4c-d089bafb5042.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\813ee100-69dc-432e-9940-fe63974535d6.png",
-      "PackagePath": "staticwebassets\\images\\product\\813ee100-69dc-432e-9940-fe63974535d6.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\83daa42d-5d66-4065-9c38-2d7ed84dc5c5.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\83daa42d-5d66-4065-9c38-2d7ed84dc5c5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\8c3f01c2-52af-4890-bf94-9f58178c3199.png",
-      "PackagePath": "staticwebassets\\images\\product\\8c3f01c2-52af-4890-bf94-9f58178c3199.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\90690cb8-fbc4-4c0f-921f-bcf42a2951f8.png",
-      "PackagePath": "staticwebassets\\images\\product\\90690cb8-fbc4-4c0f-921f-bcf42a2951f8.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\95f4d09b-f32f-4cd1-8102-ebbeb1aed459.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\95f4d09b-f32f-4cd1-8102-ebbeb1aed459.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\9b89c56b-ce4d-43e3-8412-1dcf4a67889a.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\9b89c56b-ce4d-43e3-8412-1dcf4a67889a.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\9bc05464-1362-4b29-b11d-8b9bf4fc267a.gif",
-      "PackagePath": "staticwebassets\\images\\product\\9bc05464-1362-4b29-b11d-8b9bf4fc267a.gif"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\a063c947-07c8-47a9-8c39-b7027949825c.png",
-      "PackagePath": "staticwebassets\\images\\product\\a063c947-07c8-47a9-8c39-b7027949825c.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\a17d84cd-8419-420d-ac81-deb3715eee42.png",
-      "PackagePath": "staticwebassets\\images\\product\\a17d84cd-8419-420d-ac81-deb3715eee42.png"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\d06f62a2-632a-40f1-8d53-e321b7b24c15.webp",
-      "PackagePath": "staticwebassets\\images\\product\\d06f62a2-632a-40f1-8d53-e321b7b24c15.webp"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\images\\product\\d9c0ea68-7693-4b72-be38-c780bbbc728f.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\d9c0ea68-7693-4b72-be38-c780bbbc728f.jpg"
-    },
-    {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\js\\product.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

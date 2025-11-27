@@ -20,7 +20,6 @@
         <thead>
             <tr>
                 <th scope="col">Name</th>
-                <th scope="col">Order Number</th>
                 <th scope="col"></th>
                 <th scope="col"></th>
             </tr>
@@ -32,7 +31,6 @@
             {
                 <tr>
                     <td>@c.Name</td>
-                    <td>@c.DisplayOrder</td>
                 
                     <td>
                         <a asp-controller="Category" asp-action="Edit" asp-route-id="@c.Id" class="btn py-2 bg-primary px-3 w-100 text-white">

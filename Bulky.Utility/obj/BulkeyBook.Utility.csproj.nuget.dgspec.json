@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\Bulky.Utility\\BulkeyBook.Utility.csproj": {}
+    "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\BulkeyBook.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\Bulky.Utility\\BulkeyBook.Utility.csproj": {
+    "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\BulkeyBook.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\Bulky.Utility\\BulkeyBook.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\BulkeyBook.Utility.csproj",
         "projectName": "BulkeyBook.Utility",
-        "projectPath": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\Bulky.Utility\\BulkeyBook.Utility.csproj",
+        "projectPath": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\BulkeyBook.Utility.csproj",
         "packagesPath": "C:\\Users\\khail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khail\\Desktop\\EntityFrameWork\\Bulkey\\Bulky.Utility\\obj\\",
+        "outputPath": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

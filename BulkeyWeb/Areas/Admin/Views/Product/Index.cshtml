@@ -20,17 +20,42 @@
         <thead>
             <tr>
                 <th scope="col">Title</th>
-                <th scope="col">Author</th>
-                <th scope="col">ISBN</th>
                 <th scope="col">Price</th>
                 <th scope="col">Category</th>
                 @* <th scope="col"></th> *@
             </tr>
         </thead>
+        <tbody>
+
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@c.Title</td>
+                    <td>@c.Price</td>
+                    <td>@c.Category.Name</td>
+
+                    <td>
+                        <a asp-controller="Product" asp-action="Upsert" asp-route-id="@c.Id" class="btn py-2 bg-primary px-3 w-100 text-white">
+                            <i class="bi bi-pencil"></i>
+                            EDIT
+                        </a>
+                    </td>
+
+                    <td>
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@c.Id" class="btn py-2 bg-danger px-3 w-100 text-white">
+                            <i class="bi bi-trash"> </i>
+                            DELETE
+                        </a>
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
 
         
     </table>
 </div>
 @section Scripts {
-    <script src="~/js/product.js"></script>
+    <partial name="_ValidationScriptsPartial" />
 }
