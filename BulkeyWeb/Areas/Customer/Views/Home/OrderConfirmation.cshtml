@@ -1,13 +1,69 @@
 ﻿@model int
 
+<style>
+    label {
+        font-size: 120px !important;
+    }
+</style>
 
 <div class="container row pt-4">
 	<div class="col-12 text-center">
-		<h1>Your Order Number is: @Model.ToString()</h1>
-		<img src="/images/lawn_leaf.jpg" width="65%" alt="img" />
+		<h1>Your Order Number is: @Guid.NewGuid()</h1>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <div class="col-md-6 text-xl-center w-100">
+        <div class="rating-card p-4 d-flex flex-column gap-4">
+            <h5 class="mb-4 h1 text-black-50">Interactive Star Rating</h5>
+            <div class="star-rating animated-stars text-lg-center">
+                <input type="radio" id="star5" name="rating" value="5">
+                <label for="star5" class="bi bi-star-fill"></label>
+                <input type="radio" id="star4" name="rating" value="4">
+                <label for="star4" class="bi bi-star-fill"></label>
+                <input type="radio" id="star3" name="rating" value="3">
+                <label for="star3" class="bi bi-star-fill"></label>
+                <input type="radio" id="star2" name="rating" value="2">
+                <label for="star2" class="bi bi-star-fill"></label>
+                <input type="radio" id="star1" name="rating" value="1">
+                <label for="star1" class="bi bi-star-fill"></label>
+            </div>
+            <a href="/" class=" mt-2 btn btn-success text-white">Click to rate</a>
+        </div>
+    </div>
 	</div>
-	<div class="col-12 text-center" style="color: maroon">
-		<br/>
-		Your order has been placed successfully! <br />
-	</div>
+
+    <style>
+        .star-rating {
+            direction: rtl;
+            display: inline-block;
+            cursor: pointer;
+        }
+
+            .star-rating input {
+                display: none;
+            }
+
+            .star-rating label {
+                color: #ddd;
+                font-size: 24px;
+                padding: 0 2px;
+                cursor: pointer;
+                transition: all 0.2s ease;
+            }
+
+                .star-rating label:hover,
+                .star-rating label:hover ~ label,
+                .star-rating input:checked ~ label {
+                    color: #ffc107;
+                }
+    </style>
+
+    <script>
+        document.querySelectorAll('.star-rating:not(.readonly) label').forEach(star => {
+            star.addEventListener('click', function() {
+                this.style.transform = 'scale(1.2)';
+                setTimeout(() => {
+                    this.style.transform = 'scale(1)';
+                }, 200);
+            });
+        });
+    </script>
 </div>

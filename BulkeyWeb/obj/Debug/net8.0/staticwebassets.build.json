@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l2xTj4/Giguo/qRj5PsOfXh+eHlbNQjJV+5A3lslpgE=",
+  "Hash": "jir0yBYL5FwT7L+KS3GcBF2gLvn5CKAfadH1iG1gaA0=",
   "Source": "BulkeyBookWeb",
   "BasePath": "_content/BulkeyBookWeb",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BulkeyBookWeb\\wwwroot",
       "Source": "BulkeyBookWeb",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\khail\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.11\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkeyBookWeb.styles.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkeyBookWeb.styles.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "BulkeyBookWeb#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "rRxaOwwW66vsad+hIPgEeVK0DqPxdzojPlqasKQ8nk8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkeyBookWeb.styles.css"
+      "OriginalItemSpec": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkeyBookWeb.styles.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "BulkeyBookWeb#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "rRxaOwwW66vsad+hIPgEeVK0DqPxdzojPlqasKQ8nk8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\site.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\style.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\favicon.ico",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1382,10 +1382,31 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\GlowHub.png",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkeyBookWeb",
+      "RelativePath": "images/GlowHub#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0xgmemrzs6",
+      "Integrity": "JFW+ohq9+384+S+MlNYhE/tLmPU/nM6ZhuqcR+P0m4E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GlowHub.png"
+    },
+    {
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "SourceId": "BulkeyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "images/lawn_leaf#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1424,73 @@
       "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\product.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\logo.png",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkeyBookWeb",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rysk1qjapt",
+      "Integrity": "XTcpBEIP5Qm2V831Wt1CXH9eMkrgZISl+S4vbGiQSGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\product\\a5eb5373-4a2f-446c-8dc9-4fc55c8053de.png",
+      "SourceId": "BulkeyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkeyBookWeb",
+      "RelativePath": "images/product/a5eb5373-4a2f-446c-8dc9-4fc55c8053de#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "618047xky9",
+      "Integrity": "VscaW44FyuLpqCsEINB7DGHqnJN5rhpElHLZTR4khMw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\a5eb5373-4a2f-446c-8dc9-4fc55c8053de.png"
+    },
+    {
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\product\\ed3cf05b-a107-41ab-915d-350758692c0b.png",
+      "SourceId": "BulkeyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkeyBookWeb",
+      "RelativePath": "images/product/ed3cf05b-a107-41ab-915d-350758692c0b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hfluk4c049",
+      "Integrity": "A1TCx/Kdv3/F8wHOp8WM/PAH7XBhlEMuhL9DYXxxKbg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\ed3cf05b-a107-41ab-915d-350758692c0b.png"
+    },
+    {
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\product.js",
+      "SourceId": "BulkeyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "js/product#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1424,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\site.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1466,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1487,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1508,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1529,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1550,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1571,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1592,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1613,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1634,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1655,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1676,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1697,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1718,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1739,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1760,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1781,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1802,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1823,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1844,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1865,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1886,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1907,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1928,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1949,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1970,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1991,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2012,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2033,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2054,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2075,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2096,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2117,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2138,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2159,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2180,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2201,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2222,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2243,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2264,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2285,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2306,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2327,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2348,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2369,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2390,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2411,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2432,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2453,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2474,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2495,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2516,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2537,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2558,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2579,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2600,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2621,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BulkeyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\",
       "BasePath": "_content/BulkeyBookWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2645,7 +2729,7 @@
   "Endpoints": [
     {
       "Route": "BulkeyBookWeb.7nddto076j.bundle.scp.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2666,7 +2750,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2690,7 +2774,7 @@
     },
     {
       "Route": "BulkeyBookWeb.7nddto076j.styles.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkeyBookWeb.styles.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkeyBookWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2711,7 +2795,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2735,7 +2819,7 @@
     },
     {
       "Route": "BulkeyBookWeb.bundle.scp.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkeyBookWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2756,7 +2840,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,7 +2856,7 @@
     },
     {
       "Route": "BulkeyBookWeb.styles.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkeyBookWeb.styles.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkeyBookWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2793,7 +2877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2809,7 +2893,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2846,7 +2930,7 @@
     },
     {
       "Route": "css/site.nvn1k8wd6x.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2867,7 +2951,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2891,7 +2975,7 @@
     },
     {
       "Route": "css/style.9wae7snqy0.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\style.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2912,7 +2996,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2936,7 +3020,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\style.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2957,7 +3041,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2973,7 +3057,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2994,7 +3078,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3018,7 +3102,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3039,7 +3123,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5274,8 +5358,90 @@
       ]
     },
     {
+      "Route": "images/GlowHub.0xgmemrzs6.png",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\GlowHub.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JFW+ohq9+384+S+MlNYhE/tLmPU/nM6ZhuqcR+P0m4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Dec 2025 07:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xgmemrzs6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/GlowHub.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JFW+ohq9+384+S+MlNYhE/tLmPU/nM6ZhuqcR+P0m4E="
+        }
+      ]
+    },
+    {
+      "Route": "images/GlowHub.png",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\GlowHub.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JFW+ohq9+384+S+MlNYhE/tLmPU/nM6ZhuqcR+P0m4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Dec 2025 07:59:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JFW+ohq9+384+S+MlNYhE/tLmPU/nM6ZhuqcR+P0m4E="
+        }
+      ]
+    },
+    {
       "Route": "images/lawn_leaf.jpg",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5296,7 +5462,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5312,7 +5478,7 @@
     },
     {
       "Route": "images/lawn_leaf.r1girycgsq.jpg",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\lawn_leaf.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5333,7 +5499,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5356,8 +5522,254 @@
       ]
     },
     {
+      "Route": "images/logo.png",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XTcpBEIP5Qm2V831Wt1CXH9eMkrgZISl+S4vbGiQSGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Dec 2025 08:13:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XTcpBEIP5Qm2V831Wt1CXH9eMkrgZISl+S4vbGiQSGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.rysk1qjapt.png",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XTcpBEIP5Qm2V831Wt1CXH9eMkrgZISl+S4vbGiQSGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Dec 2025 08:13:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rysk1qjapt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XTcpBEIP5Qm2V831Wt1CXH9eMkrgZISl+S4vbGiQSGs="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/a5eb5373-4a2f-446c-8dc9-4fc55c8053de.618047xky9.png",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\product\\a5eb5373-4a2f-446c-8dc9-4fc55c8053de.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1360504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VscaW44FyuLpqCsEINB7DGHqnJN5rhpElHLZTR4khMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "618047xky9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/a5eb5373-4a2f-446c-8dc9-4fc55c8053de.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VscaW44FyuLpqCsEINB7DGHqnJN5rhpElHLZTR4khMw="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/a5eb5373-4a2f-446c-8dc9-4fc55c8053de.png",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\product\\a5eb5373-4a2f-446c-8dc9-4fc55c8053de.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1360504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VscaW44FyuLpqCsEINB7DGHqnJN5rhpElHLZTR4khMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VscaW44FyuLpqCsEINB7DGHqnJN5rhpElHLZTR4khMw="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/ed3cf05b-a107-41ab-915d-350758692c0b.hfluk4c049.png",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\product\\ed3cf05b-a107-41ab-915d-350758692c0b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A1TCx/Kdv3/F8wHOp8WM/PAH7XBhlEMuhL9DYXxxKbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hfluk4c049"
+        },
+        {
+          "Name": "label",
+          "Value": "images/product/ed3cf05b-a107-41ab-915d-350758692c0b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A1TCx/Kdv3/F8wHOp8WM/PAH7XBhlEMuhL9DYXxxKbg="
+        }
+      ]
+    },
+    {
+      "Route": "images/product/ed3cf05b-a107-41ab-915d-350758692c0b.png",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\images\\product\\ed3cf05b-a107-41ab-915d-350758692c0b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A1TCx/Kdv3/F8wHOp8WM/PAH7XBhlEMuhL9DYXxxKbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A1TCx/Kdv3/F8wHOp8WM/PAH7XBhlEMuhL9DYXxxKbg="
+        }
+      ]
+    },
+    {
       "Route": "js/product.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\product.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5378,7 +5790,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5394,7 +5806,7 @@
     },
     {
       "Route": "js/product.u3u6o83w7s.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\product.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5415,7 +5827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5439,7 +5851,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5460,7 +5872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5476,7 +5888,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5497,7 +5909,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5521,7 +5933,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5542,7 +5954,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5558,7 +5970,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5579,7 +5991,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5603,7 +6015,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5624,7 +6036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5640,7 +6052,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5661,7 +6073,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5685,7 +6097,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5706,7 +6118,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5722,7 +6134,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5743,7 +6155,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5767,7 +6179,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5788,7 +6200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5804,7 +6216,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ogiqsblawh.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5825,7 +6237,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5849,7 +6261,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5870,7 +6282,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5886,7 +6298,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5907,7 +6319,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5931,7 +6343,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5952,7 +6364,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5968,7 +6380,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.gjcw7pocpk.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5989,7 +6401,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6013,7 +6425,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.6l4ir0ityv.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6034,7 +6446,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6058,7 +6470,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6079,7 +6491,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6095,7 +6507,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6116,7 +6528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6140,7 +6552,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6161,7 +6573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6177,7 +6589,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6198,7 +6610,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6214,7 +6626,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6235,7 +6647,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6251,7 +6663,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6272,7 +6684,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6296,7 +6708,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6317,7 +6729,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6341,7 +6753,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6362,7 +6774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6378,7 +6790,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6399,7 +6811,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6423,7 +6835,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6444,7 +6856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6460,7 +6872,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6481,7 +6893,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6505,7 +6917,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6526,7 +6938,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6542,7 +6954,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6563,7 +6975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6587,7 +6999,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6608,7 +7020,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6624,7 +7036,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6645,7 +7057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6669,7 +7081,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6690,7 +7102,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6706,7 +7118,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6727,7 +7139,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6743,7 +7155,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6764,7 +7176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6788,7 +7200,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6809,7 +7221,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6833,7 +7245,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6854,7 +7266,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6870,7 +7282,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6891,7 +7303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6915,7 +7327,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6936,7 +7348,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6952,7 +7364,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6973,7 +7385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6989,7 +7401,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7010,7 +7422,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7026,7 +7438,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7047,7 +7459,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7071,7 +7483,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7092,7 +7504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7116,7 +7528,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7137,7 +7549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7161,7 +7573,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7182,7 +7594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7206,7 +7618,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7227,7 +7639,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7243,7 +7655,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7264,7 +7676,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7288,7 +7700,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7309,7 +7721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7325,7 +7737,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7346,7 +7758,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7362,7 +7774,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7383,7 +7795,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7399,7 +7811,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7420,7 +7832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7444,7 +7856,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7465,7 +7877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7489,7 +7901,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7510,7 +7922,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7526,7 +7938,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7547,7 +7959,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7571,7 +7983,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7592,7 +8004,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7608,7 +8020,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7629,7 +8041,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7653,7 +8065,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7674,7 +8086,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7690,7 +8102,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7711,7 +8123,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7727,7 +8139,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7748,7 +8160,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7772,7 +8184,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7793,7 +8205,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7809,7 +8221,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7830,7 +8242,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7854,7 +8266,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7875,7 +8287,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7891,7 +8303,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7912,7 +8324,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7928,7 +8340,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7949,7 +8361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7973,7 +8385,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7994,7 +8406,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8010,7 +8422,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8031,7 +8443,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8055,7 +8467,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8076,7 +8488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8100,7 +8512,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8121,7 +8533,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8145,7 +8557,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8166,7 +8578,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8190,7 +8602,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8211,7 +8623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8235,7 +8647,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8256,7 +8668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8272,7 +8684,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8293,7 +8705,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8317,7 +8729,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8338,7 +8750,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8354,7 +8766,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8375,7 +8787,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8399,7 +8811,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8420,7 +8832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8436,7 +8848,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8457,7 +8869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8481,7 +8893,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8502,7 +8914,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8518,7 +8930,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8539,7 +8951,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8555,7 +8967,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8576,7 +8988,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8600,7 +9012,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8621,7 +9033,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8637,7 +9049,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8658,7 +9070,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8682,7 +9094,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8703,7 +9115,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8719,7 +9131,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8740,7 +9152,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8756,7 +9168,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8777,7 +9189,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8801,7 +9213,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8822,7 +9234,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8846,7 +9258,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8867,7 +9279,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8883,7 +9295,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8904,7 +9316,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8928,7 +9340,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8949,7 +9361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8965,7 +9377,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8986,7 +9398,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9010,7 +9422,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9031,7 +9443,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9047,7 +9459,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9068,7 +9480,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9084,7 +9496,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9105,7 +9517,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9129,7 +9541,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9150,7 +9562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9166,7 +9578,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9187,7 +9599,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9211,7 +9623,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9232,7 +9644,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9256,7 +9668,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9277,7 +9689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9293,7 +9705,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9314,7 +9726,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9338,7 +9750,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9359,7 +9771,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9383,7 +9795,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9404,7 +9816,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9420,7 +9832,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9441,7 +9853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9457,7 +9869,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9478,7 +9890,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9502,7 +9914,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9523,7 +9935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9539,7 +9951,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9560,7 +9972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9584,7 +9996,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9605,7 +10017,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9621,7 +10033,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9642,7 +10054,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9666,7 +10078,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9687,7 +10099,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9703,7 +10115,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9724,7 +10136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9748,7 +10160,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9769,7 +10181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9785,7 +10197,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9806,7 +10218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9822,7 +10234,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9843,7 +10255,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9867,7 +10279,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9888,7 +10300,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9904,7 +10316,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9925,7 +10337,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9949,7 +10361,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9970,7 +10382,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9994,7 +10406,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10015,7 +10427,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10031,7 +10443,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10052,7 +10464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10076,7 +10488,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10097,7 +10509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10113,7 +10525,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10134,7 +10546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10158,7 +10570,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10179,7 +10591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Nov 2025 15:28:07 GMT"
+          "Value": "Sun, 07 Dec 2025 07:53:25 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -802,11 +802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\BulkeyBook.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\BulkeyBook.Utility.csproj",
       "projectName": "BulkeyBook.Utility",
-      "projectPath": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\BulkeyBook.Utility.csproj",
+      "projectPath": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\BulkeyBook.Utility.csproj",
       "packagesPath": "C:\\Users\\khail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\obj\\",
+      "outputPath": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

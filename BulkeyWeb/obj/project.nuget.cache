@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5mK8mkAcaFc=",
+  "dgSpecHash": "3ZtFFs5vKc8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\khail\\Desktop\\Shop\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\BulkeyBookWeb.csproj",
+  "projectFilePath": "C:\\Users\\khail\\Desktop\\shop_web_2120183\\Eccomers-with-asp.net-core-mvc\\BulkeyWeb\\BulkeyBookWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khail\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\khail\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

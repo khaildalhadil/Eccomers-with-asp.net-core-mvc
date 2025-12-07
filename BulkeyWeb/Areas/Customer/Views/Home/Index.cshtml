@@ -1,11 +1,38 @@
 ﻿@model List<Product>;
 
 <div class="row col-12 gap-3 m-auto mt-5 mb-5 text-center">
+    <div id="carouselExampleIndicators" class="carousel slide mb-5" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://images.vexels.com/media/users/3/194732/raw/90137aa80ed4d208bc0cda1fc224cfff-online-shopping-web-slider.jpg" class="d-block w-100 " alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://images.vexels.com/media/users/3/194698/raw/34d9aa618f832510ce7290b4f183484a-shop-online-slider-template.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://images.vexels.com/media/users/3/194731/raw/98a06d45de142b379f6d236526aa9ada-loja-online-web-slider-design.jpg" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
 
 	@foreach (var product in Model)
 	{
-		<div class="card p-2 border-0 border-top border-5 rounded shadow card_product" style="width: 18rem">
-			<img class="card-img-top rounded" src="@product.ImageUrl" alt="Card image cap">
+        <div class="card p-2 border-0 border-top border-5 rounded shadow card_product " style="width: 18rem !important">
+			<img class="card-img-top rounded h-100 object-fit-cover" src="@product.ImageUrl" alt="Card image cap">
+
 			<div class="card-body">
 				<h4 class="card-title mb-1">@product.Title</h4>
 				<p>Now Price: <span class="fw-bold text-secondary">@product.Price Rial OM</span> </p>

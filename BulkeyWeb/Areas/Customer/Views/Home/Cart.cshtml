@@ -20,13 +20,21 @@
 			<div class="row">
 			</div>
 			<div class="row mb-3 pb-3">
-				<div class="col-md-2 offset-md-1">
-					<a href="#" class="btn btn-outline-primary text-uppercase mb-5 btn-sm"><small>Continue Shopping</small></a>
-				</div>
+
 
 				@if (Model.ShoppingCartList.ToList().Count <= 0)
 				{
-					<h1>Cart Is MT</h1>
+					<div class="custom-bg text-dark">
+						<div class="d-flex align-items-center justify-content-center px-2">
+							<div class="text-center">
+								<p class="fs-2 fw-medium mt-4">Oops! Card is MT </p>
+								<p class="mt-4 mb-5">Your Cart is Mt Go to Home Page To Add ?</p>
+								<a href="/" class="btn btn-light fw-semibold rounded-pill px-4 py-2 custom-btn">
+									All Products
+								</a>
+							</div>
+						</div>
+					</div>
 				}
 				else
 				{
@@ -70,27 +78,27 @@
 
 						</div>
 					}
+					<div class="card-footer bg-white border-0">
+						<div class="row">
+							<div class="col-md-4 offset-md-4">
+								<ul class="list-group mb-4">
+									<li class="d-flex gap-2 align-items-center">
+										<h5 class="text-dark fw-semibold text-uppercase"> Total @Math.Round(Model.OrderHeader.OrderTotal, 2)</h5>
+										<h4 class="text-dark fw-bolder">Rial</h4>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-2 offset-md-5">
+								<a asp-action="Summary"  class="btn btn-primary border-0 bg-gradient w-100 py-2">Summary</a>
+							</div>
+						</div>
+					</div>
 				}
 
 			</div>
 
-			<div class="card-footer bg-white border-0">
-				<div class="row">
-					<div class="col-md-4 offset-md-4">
-						<ul class="list-group mb-4">
-							<li class="d-flex gap-2 align-items-center">
-								<h5 class="text-dark fw-semibold text-uppercase"> Total @Math.Round(Model.OrderHeader.OrderTotal, 2)</h5>
-								<h4 class="text-dark fw-bolder">Rial</h4>
-							</li>
-						</ul>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-2 offset-md-5">
-						<a asp-action="Summary" class="btn btn-primary border-0 bg-gradient w-100 py-2">Summary</a>
-					</div>
-				</div>
-			</div>
 		</div>
 	</div>
 </form>

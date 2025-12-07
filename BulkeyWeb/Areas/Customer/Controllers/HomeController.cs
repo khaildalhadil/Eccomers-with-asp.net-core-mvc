@@ -115,6 +115,7 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
         public IActionResult Summary()
         {
+
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
 
@@ -141,9 +142,10 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
             foreach (var cart in shoppingCart.ShoppingCartList)
             {
-                shoppingCart.OrderHeader.OrderTotal += (cart.Price * cart.Count);
+                shoppingCart.OrderHeader.OrderTotal += (cart.Product.Price * cart.Count);
                 //shoppingCart.ShoppingCartList = price * cart.Count;
             }
+            //shoppingCart.OrderHeader.OrderTotal = price;
             return View(shoppingCart);
         }
 
@@ -164,7 +166,7 @@ namespace BulkeyBookWeb.Areas.Customer.Controllers
 
             foreach (var cart in shoppingCartVM.ShoppingCartList)
             {
-                shoppingCartVM.OrderHeader.OrderTotal += (cart.Price * cart.Count);
+                shoppingCartVM.OrderHeader.OrderTotal += (cart.Product.Price * cart.Count);
                 //shoppingCart.ShoppingCartList = price * cart.Count;
             }
 

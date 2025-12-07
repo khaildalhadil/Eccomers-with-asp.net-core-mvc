@@ -1,7 +1,11 @@
 wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico
+wwwroot\images\GlowHub.png
 wwwroot\images\lawn_leaf.jpg
+wwwroot\images\logo.png
+wwwroot\images\product\a5eb5373-4a2f-446c-8dc9-4fc55c8053de.png
+wwwroot\images\product\ed3cf05b-a107-41ab-915d-350758692c0b.png
 wwwroot\js\product.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
